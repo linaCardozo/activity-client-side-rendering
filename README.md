@@ -1,2 +1,2 @@
-# activity-client-side-rendering
+### Client Side Rendering
 Activity about client side rendering for the course Web Programming.
