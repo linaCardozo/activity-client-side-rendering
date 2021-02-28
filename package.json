@@ -1,0 +1,23 @@
+{
+  "name": "activity-client-side-rendering",
+  "version": "1.0.0",
+  "description": "Activity about client side rendering for the course Web Programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linaCardozo/activity-client-side-rendering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linaCardozo/activity-client-side-rendering/issues"
+  },
+  "homepage": "https://github.com/linaCardozo/activity-client-side-rendering#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
